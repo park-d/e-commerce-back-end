@@ -45,6 +45,7 @@ router.post('/', (req, res) => {
       price: 200.00,
       stock: 3,
       tagIds: [1, 2, 3, 4]
+      category_id: 5
     }
   */
   Product.create(req.body)
