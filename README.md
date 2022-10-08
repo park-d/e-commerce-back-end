@@ -27,14 +27,25 @@ Then run the db schema sql file and seed the database using ```npm run seed``` t
 
 Video walkthrough of creating and seeding the database, and starting the application
 
-![Seeding database and starting application](./assets/seeding%26running.gif)
+![Seeding database and starting application](https://i.imgur.com/Xxv6nf2.gif)
 
 ---
 
-Video walkthrough of creating and seeding the database, and starting the application
+Video walkthrough of successful GET Routes for Categories, Products, and Tags
 
-![Seeding database and starting application](./assets/seeding%26running.gif)
+![GET Routes for Categories, Products, and Tags](https://i.imgur.com/TfjZXmS.gif)
 
+---
+
+Video walkthrough of successful POST/PUT Routes for Categories, Products, and Tags
+
+![POST/PUT Routes for Categories, Products, and Tags](https://i.imgur.com/1D3wXvL.gif)
+
+---
+
+Video walkthrough of successful DELETE Routes for Categories, Products, and Tags
+
+![DELETE Routes for Categories, Products, and Tags](https://i.imgur.com/9BWt8eg.gif)
 
 ## Credits
 While working on this project, I worked alongside Jackson Myhre in the same bootcamp class. A lot of the routes were taken from class activities and edited to work in this assignment.
